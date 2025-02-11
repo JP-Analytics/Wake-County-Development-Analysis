@@ -16,4 +16,4 @@ This project analyzes development trends in Wake County using Python and Jupyter
 - Jupyter Notebook
 
 ## 📜 Copyright & License  
-© [Your Name] [Year].
+© [Anthony Andino] [2025].
