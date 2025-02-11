@@ -14,3 +14,6 @@ This project analyzes development trends in Wake County using Python and Jupyter
 ## ⚙️ Technologies Used
 - Python (pandas, NumPy, matplotlib, seaborn)
 - Jupyter Notebook
+
+## 📜 Copyright & License  
+© [Your Name] [Year].
